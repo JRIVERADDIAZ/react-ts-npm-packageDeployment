@@ -59,5 +59,14 @@
     "tsdx": "^0.14.1",
     "tslib": "^2.5.0",
     "typescript": "^5.0.4"
-  }
+  }, "repository": {
+    "url": "https://github.com/JRIVERADDIAZ/react-ts-npm-packageDeployment",
+    "type": "git"
+  }, "keywords": [
+    "product",
+    "card",
+    "AJ RIvera",
+    "Abraham",
+    "Rivera"
+  ]
 }
